@@ -1,1 +1,1 @@
-# journey-to-web-development
+# journey-to-web-developer
