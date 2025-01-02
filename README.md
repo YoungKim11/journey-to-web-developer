@@ -9,3 +9,5 @@ My journey into web development has been guided by my commitment to The Odin Pro
 I’ve chosen to follow the Full Stack JavaScript path to gain both front-end and back-end skills.
 
 https://theodinproject.com/paths
+
+back after a Christmas break 
